@@ -1,3 +1,7 @@
+##Codigo creado por: SSH
+##Para entender la OOP en Python
+
+
 import random
 from country_list import countries_for_language
 lifes = 4
