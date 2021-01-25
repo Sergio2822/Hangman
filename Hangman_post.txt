@@ -2,3 +2,5 @@ Este es un archivo para practicar el uso de GIT
 Es creado por Sergio Serrallonga a la 4:03 del 25 de Enero
 
 Saludos Coordiales
+Probando ek comando de git reset HEAD
+Ya entendí 
