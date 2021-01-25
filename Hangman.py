@@ -6,7 +6,7 @@ import random
 from country_list import countries_for_language
 lifes = 4
 
-class word:
+class word: ## Class that allows you to choose the array for selecting the topic of the secret word 
     def __init__ (self):
         self.word_list=[]
     
@@ -34,7 +34,7 @@ class word:
 
 
 
-class lines_array:
+class lines_array: ##Class that allows you to create and uptades the array of lines
     def __init__(self):
         self.lines_word= []
     

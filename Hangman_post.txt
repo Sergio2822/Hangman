@@ -2,3 +2,5 @@ Este es un archivo para practicar el uso de GIT
 Es creado por Sergio Serrallonga a la 3:40 del 25 de Enero
 
 Saludos Coordiales
+
+A las 3:45 he comentado las princiales clases del programa
