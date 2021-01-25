@@ -1,0 +1,3 @@
+Este es un archivo para practicar el uso de GIT
+Es creado por Sergio Serrallonga a la 2:40 del 20 de Enero
+Saludos
